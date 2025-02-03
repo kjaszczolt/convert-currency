@@ -19,7 +19,7 @@ LINK: [CONVERT-CURRENCY](https://kjaszczolt.github.io/convert-currency/)
 
 ## Instruction:
 
-1. Choose the currency that you want to convert from.
+1. Choose the currency that you want to convert for.
 2. Enter the amount in Polish Złoty.
 3. Click "Przelicz wartość w wybranej walucie" (eng. "Convert the amount in chosen currency").
 4. You will see converted amount at the bottom of the form.
