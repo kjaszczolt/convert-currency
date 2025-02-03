@@ -2,7 +2,7 @@
 
 This project is a simple web application that will help you convert currencies. You can convert from Polish Złoty to one of three currencies.
 
-![currency-converter.jpg](https://postimg.cc/YGpMmSBf)
+[![currency-converter.jpg](https://i.postimg.cc/5220W0c2/currency-converter.jpg)](https://postimg.cc/Xpt3wn7R)
 
 LINK: [CONVERT-CURRENCY](https://kjaszczolt.github.io/convert-currency/)
 
